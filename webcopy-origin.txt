@@ -1,0 +1,352 @@
+Uri: https://cdn.converteai.net/b5a04485-c09c-4f97-85ab-84e10b9d9fdc/6644eff5fe2340000b83951e/main.m3u8
+File Name: C:\Users\victo\OneDrive\Área de Trabalho\Black\Noticias Brasil IND\g1nws.lat\b5a04485-c09c-4f97-85ab-84e10b9d9fdc\6644eff5fe2340000b83951e\main.m3u8
+Content Type: application/x-mpegurl
+
+Uri: https://cdn.converteai.net/lib/js/smartplayer/v1/smartplayer.min.js
+File Name: C:\Users\victo\OneDrive\Área de Trabalho\Black\Noticias Brasil IND\g1nws.lat\lib\js\smartplayer\v1\smartplayer.min.js
+Content Type: text/javascript
+
+Uri: https://cdn.utmify.com.br/scripts/utms/latest.js
+File Name: C:\Users\victo\OneDrive\Área de Trabalho\Black\Noticias Brasil IND\g1nws.lat\scripts\utms\latest.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto+Slab:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Poppins:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=swap&ver=6.7.2
+File Name: C:\Users\victo\OneDrive\Área de Trabalho\Black\Noticias Brasil IND\g1nws.lat\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiAyp8kv8JHgFVrJJLmE0tCMPc.ttf
+File Name: C:\Users\victo\OneDrive\Área de Trabalho\Black\Noticias Brasil IND\g1nws.lat\s\poppins\v22\pxiAyp8kv8JHgFVrJJLmE0tCMPc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiByp8kv8JHgFVrLBT5Z1xlEA.ttf
+File Name: C:\Users\victo\OneDrive\Área de Trabalho\Black\Noticias Brasil IND\g1nws.lat\s\poppins\v22\pxiByp8kv8JHgFVrLBT5Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+File Name: C:\Users\victo\OneDrive\Área de Trabalho\Black\Noticias Brasil IND\g1nws.lat\s\poppins\v22\pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiByp8kv8JHgFVrLDD4Z1xlEA.ttf
+File Name: C:\Users\victo\OneDrive\Área de Trabalho\Black\Noticias Brasil IND\g1nws.lat\s\poppins\v22\pxiByp8kv8JHgFVrLDD4Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+File Name: C:\Users\victo\OneDrive\Área de Trabalho\Black\Noticias Brasil IND\g1nws.lat\s\poppins\v22\pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+File Name: C:\Users\victo\OneDrive\Área de Trabalho\Black\Noticias Brasil IND\g1nws.lat\s\poppins\v22\pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiByp8kv8JHgFVrLFj_Z1xlEA.ttf
+File Name: C:\Users\victo\OneDrive\Área de Trabalho\Black\Noticias Brasil IND\g1nws.lat\s\poppins\v22\pxiByp8kv8JHgFVrLFj_Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+File Name: C:\Users\victo\OneDrive\Área de Trabalho\Black\Noticias Brasil IND\g1nws.lat\s\poppins\v22\pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiDyp8kv8JHgFVrJJLm111VF9eL.ttf
+File Name: C:\Users\victo\OneDrive\Área de Trabalho\Black\Noticias Brasil IND\g1nws.lat\s\poppins\v22\pxiDyp8kv8JHgFVrJJLm111VF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiDyp8kv8JHgFVrJJLm21lVF9eL.ttf
+File Name: C:\Users\victo\OneDrive\Área de Trabalho\Black\Noticias Brasil IND\g1nws.lat\s\poppins\v22\pxiDyp8kv8JHgFVrJJLm21lVF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiDyp8kv8JHgFVrJJLm81xVF9eL.ttf
+File Name: C:\Users\victo\OneDrive\Área de Trabalho\Black\Noticias Brasil IND\g1nws.lat\s\poppins\v22\pxiDyp8kv8JHgFVrJJLm81xVF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiDyp8kv8JHgFVrJJLmg1hVF9eL.ttf
+File Name: C:\Users\victo\OneDrive\Área de Trabalho\Black\Noticias Brasil IND\g1nws.lat\s\poppins\v22\pxiDyp8kv8JHgFVrJJLmg1hVF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiDyp8kv8JHgFVrJJLmr19VF9eL.ttf
+File Name: C:\Users\victo\OneDrive\Área de Trabalho\Black\Noticias Brasil IND\g1nws.lat\s\poppins\v22\pxiDyp8kv8JHgFVrJJLmr19VF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiDyp8kv8JHgFVrJJLmv1pVF9eL.ttf
+File Name: C:\Users\victo\OneDrive\Área de Trabalho\Black\Noticias Brasil IND\g1nws.lat\s\poppins\v22\pxiDyp8kv8JHgFVrJJLmv1pVF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiDyp8kv8JHgFVrJJLmy15VF9eL.ttf
+File Name: C:\Users\victo\OneDrive\Área de Trabalho\Black\Noticias Brasil IND\g1nws.lat\s\poppins\v22\pxiDyp8kv8JHgFVrJJLmy15VF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiEyp8kv8JHgFVrJJfedw.ttf
+File Name: C:\Users\victo\OneDrive\Área de Trabalho\Black\Noticias Brasil IND\g1nws.lat\s\poppins\v22\pxiEyp8kv8JHgFVrJJfedw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiGyp8kv8JHgFVrJJLucHtF.ttf
+File Name: C:\Users\victo\OneDrive\Área de Trabalho\Black\Noticias Brasil IND\g1nws.lat\s\poppins\v22\pxiGyp8kv8JHgFVrJJLucHtF.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiGyp8kv8JHgFVrLPTucHtF.ttf
+File Name: C:\Users\victo\OneDrive\Área de Trabalho\Black\Noticias Brasil IND\g1nws.lat\s\poppins\v22\pxiGyp8kv8JHgFVrLPTucHtF.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLgHQuAj-lg.ttf
+File Name: C:\Users\victo\OneDrive\Área de Trabalho\Black\Noticias Brasil IND\g1nws.lat\s\roboto\v47\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLgHQuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLgHXuAj-lg.ttf
+File Name: C:\Users\victo\OneDrive\Área de Trabalho\Black\Noticias Brasil IND\g1nws.lat\s\roboto\v47\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLgHXuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLijXuAj-lg.ttf
+File Name: C:\Users\victo\OneDrive\Área de Trabalho\Black\Noticias Brasil IND\g1nws.lat\s\roboto\v47\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLijXuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLl_XuAj-lg.ttf
+File Name: C:\Users\victo\OneDrive\Área de Trabalho\Black\Noticias Brasil IND\g1nws.lat\s\roboto\v47\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLl_XuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLmbXuAj-lg.ttf
+File Name: C:\Users\victo\OneDrive\Área de Trabalho\Black\Noticias Brasil IND\g1nws.lat\s\roboto\v47\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLmbXuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLoHQuAj-lg.ttf
+File Name: C:\Users\victo\OneDrive\Área de Trabalho\Black\Noticias Brasil IND\g1nws.lat\s\roboto\v47\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLoHQuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLoHRuAj-lg.ttf
+File Name: C:\Users\victo\OneDrive\Área de Trabalho\Black\Noticias Brasil IND\g1nws.lat\s\roboto\v47\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLoHRuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLrPQuAj-lg.ttf
+File Name: C:\Users\victo\OneDrive\Área de Trabalho\Black\Noticias Brasil IND\g1nws.lat\s\roboto\v47\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLrPQuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLt_QuAj-lg.ttf
+File Name: C:\Users\victo\OneDrive\Área de Trabalho\Black\Noticias Brasil IND\g1nws.lat\s\roboto\v47\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLt_QuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuaabVmUiA8.ttf
+File Name: C:\Users\victo\OneDrive\Área de Trabalho\Black\Noticias Brasil IND\g1nws.lat\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuaabVmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bVmUiA8.ttf
+File Name: C:\Users\victo\OneDrive\Área de Trabalho\Black\Noticias Brasil IND\g1nws.lat\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bVmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbFmUiA8.ttf
+File Name: C:\Users\victo\OneDrive\Área de Trabalho\Black\Noticias Brasil IND\g1nws.lat\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbFmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmUiA8.ttf
+File Name: C:\Users\victo\OneDrive\Área de Trabalho\Black\Noticias Brasil IND\g1nws.lat\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYaalmUiA8.ttf
+File Name: C:\Users\victo\OneDrive\Área de Trabalho\Black\Noticias Brasil IND\g1nws.lat\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYaalmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjalmUiA8.ttf
+File Name: C:\Users\victo\OneDrive\Área de Trabalho\Black\Noticias Brasil IND\g1nws.lat\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjalmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZEalmUiA8.ttf
+File Name: C:\Users\victo\OneDrive\Área de Trabalho\Black\Noticias Brasil IND\g1nws.lat\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZEalmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZEbVmUiA8.ttf
+File Name: C:\Users\victo\OneDrive\Área de Trabalho\Black\Noticias Brasil IND\g1nws.lat\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZEbVmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZtalmUiA8.ttf
+File Name: C:\Users\victo\OneDrive\Área de Trabalho\Black\Noticias Brasil IND\g1nws.lat\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZtalmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+File Name: C:\Users\victo\OneDrive\Área de Trabalho\Black\Noticias Brasil IND\g1nws.lat\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+File Name: C:\Users\victo\OneDrive\Área de Trabalho\Black\Noticias Brasil IND\g1nws.lat\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+File Name: C:\Users\victo\OneDrive\Área de Trabalho\Black\Noticias Brasil IND\g1nws.lat\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+File Name: C:\Users\victo\OneDrive\Área de Trabalho\Black\Noticias Brasil IND\g1nws.lat\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+File Name: C:\Users\victo\OneDrive\Área de Trabalho\Black\Noticias Brasil IND\g1nws.lat\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+File Name: C:\Users\victo\OneDrive\Área de Trabalho\Black\Noticias Brasil IND\g1nws.lat\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+File Name: C:\Users\victo\OneDrive\Área de Trabalho\Black\Noticias Brasil IND\g1nws.lat\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+File Name: C:\Users\victo\OneDrive\Área de Trabalho\Black\Noticias Brasil IND\g1nws.lat\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+File Name: C:\Users\victo\OneDrive\Área de Trabalho\Black\Noticias Brasil IND\g1nws.lat\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://g1nws.lat/
+File Name: C:\Users\victo\OneDrive\Área de Trabalho\Black\Noticias Brasil IND\g1nws.lat\index-2.htm
+Content Type: text/html
+
+Uri: https://g1nws.lat/?fbclid=IwY2xjawIkE2lleHRuA2FlbQIxMAABHTls9WlS5kW6LNcvwLKMk__d-B7brN4S4P9GLhsuIwlmNfa3OT7YjgwSVg_aem_xVpF150gqK4EMpV35s0sjQ
+File Name: C:\Users\victo\OneDrive\Área de Trabalho\Black\Noticias Brasil IND\g1nws.lat\index.htm
+Content Type: text/html
+
+Uri: https://g1nws.lat/?rsd
+File Name: C:\Users\victo\OneDrive\Área de Trabalho\Black\Noticias Brasil IND\g1nws.lat\index-1.htm
+Content Type: text/html
+
+Uri: https://g1nws.lat/comments/feed/
+File Name: C:\Users\victo\OneDrive\Área de Trabalho\Black\Noticias Brasil IND\g1nws.lat\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://g1nws.lat/feed/
+File Name: C:\Users\victo\OneDrive\Área de Trabalho\Black\Noticias Brasil IND\g1nws.lat\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://g1nws.lat/wp-content/plugins/elementor-pro/assets/css/frontend.min.css?ver=3.21.3
+File Name: C:\Users\victo\OneDrive\Área de Trabalho\Black\Noticias Brasil IND\g1nws.lat\wp-content\plugins\elementor-pro\assets\css\frontend.min.css
+Content Type: text/css
+
+Uri: https://g1nws.lat/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.21.3
+File Name: C:\Users\victo\OneDrive\Área de Trabalho\Black\Noticias Brasil IND\g1nws.lat\wp-content\plugins\elementor-pro\assets\js\elements-handlers.min.js
+Content Type: text/javascript
+
+Uri: https://g1nws.lat/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.21.3
+File Name: C:\Users\victo\OneDrive\Área de Trabalho\Black\Noticias Brasil IND\g1nws.lat\wp-content\plugins\elementor-pro\assets\js\frontend.min.js
+Content Type: text/javascript
+
+Uri: https://g1nws.lat/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.21.3
+File Name: C:\Users\victo\OneDrive\Área de Trabalho\Black\Noticias Brasil IND\g1nws.lat\wp-content\plugins\elementor-pro\assets\js\webpack-pro.runtime.min.js
+Content Type: text/javascript
+
+Uri: https://g1nws.lat/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.26.5
+File Name: C:\Users\victo\OneDrive\Área de Trabalho\Black\Noticias Brasil IND\g1nws.lat\wp-content\plugins\elementor\assets\css\frontend.min.css
+Content Type: text/css
+
+Uri: https://g1nws.lat/wp-content/plugins/elementor/assets/css/widget-divider.min.css?ver=3.26.5
+File Name: C:\Users\victo\OneDrive\Área de Trabalho\Black\Noticias Brasil IND\g1nws.lat\wp-content\plugins\elementor\assets\css\widget-divider.min.css
+Content Type: text/css
+
+Uri: https://g1nws.lat/wp-content/plugins/elementor/assets/css/widget-image.min.css?ver=3.26.5
+File Name: C:\Users\victo\OneDrive\Área de Trabalho\Black\Noticias Brasil IND\g1nws.lat\wp-content\plugins\elementor\assets\css\widget-image.min.css
+Content Type: text/css
+
+Uri: https://g1nws.lat/wp-content/plugins/elementor/assets/css/widget-text-editor.min.css?ver=3.26.5
+File Name: C:\Users\victo\OneDrive\Área de Trabalho\Black\Noticias Brasil IND\g1nws.lat\wp-content\plugins\elementor\assets\css\widget-text-editor.min.css
+Content Type: text/css
+
+Uri: https://g1nws.lat/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.26.5
+File Name: C:\Users\victo\OneDrive\Área de Trabalho\Black\Noticias Brasil IND\g1nws.lat\wp-content\plugins\elementor\assets\js\frontend-modules.min.js
+Content Type: text/javascript
+
+Uri: https://g1nws.lat/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.26.5
+File Name: C:\Users\victo\OneDrive\Área de Trabalho\Black\Noticias Brasil IND\g1nws.lat\wp-content\plugins\elementor\assets\js\frontend.min.js
+Content Type: text/javascript
+
+Uri: https://g1nws.lat/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.26.5
+File Name: C:\Users\victo\OneDrive\Área de Trabalho\Black\Noticias Brasil IND\g1nws.lat\wp-content\plugins\elementor\assets\js\webpack.runtime.min.js
+Content Type: text/javascript
+
+Uri: https://g1nws.lat/wp-content/themes/twentytwentyfour/assets/fonts/cardo/cardo_italic_400.woff2
+File Name: C:\Users\victo\OneDrive\Área de Trabalho\Black\Noticias Brasil IND\g1nws.lat\wp-content\themes\twentytwentyfour\assets\fonts\cardo\cardo_italic_400.woff2
+Content Type: font/woff2
+
+Uri: https://g1nws.lat/wp-content/themes/twentytwentyfour/assets/fonts/cardo/cardo_normal_400.woff2
+File Name: C:\Users\victo\OneDrive\Área de Trabalho\Black\Noticias Brasil IND\g1nws.lat\wp-content\themes\twentytwentyfour\assets\fonts\cardo\cardo_normal_400.woff2
+Content Type: font/woff2
+
+Uri: https://g1nws.lat/wp-content/themes/twentytwentyfour/assets/fonts/cardo/cardo_normal_700.woff2
+File Name: C:\Users\victo\OneDrive\Área de Trabalho\Black\Noticias Brasil IND\g1nws.lat\wp-content\themes\twentytwentyfour\assets\fonts\cardo\cardo_normal_700.woff2
+Content Type: font/woff2
+
+Uri: https://g1nws.lat/wp-content/themes/twentytwentyfour/assets/fonts/inter/Inter-VariableFont_slnt,wght.woff2
+File Name: C:\Users\victo\OneDrive\Área de Trabalho\Black\Noticias Brasil IND\g1nws.lat\wp-content\themes\twentytwentyfour\assets\fonts\inter\Inter-VariableFont_slnt,wght.woff2
+Content Type: font/woff2
+
+Uri: https://g1nws.lat/wp-content/uploads/2025/02/caixa-removebg-preview-1-150x150.png
+File Name: C:\Users\victo\OneDrive\Área de Trabalho\Black\Noticias Brasil IND\g1nws.lat\wp-content\uploads\2025\02\caixa-removebg-preview-1-150x150.png
+Content Type: image/png
+
+Uri: https://g1nws.lat/wp-content/uploads/2025/02/caixa-removebg-preview-1-300x300.png
+File Name: C:\Users\victo\OneDrive\Área de Trabalho\Black\Noticias Brasil IND\g1nws.lat\wp-content\uploads\2025\02\caixa-removebg-preview-1-300x300.png
+Content Type: image/png
+
+Uri: https://g1nws.lat/wp-content/uploads/2025/02/caixa-removebg-preview-1.png
+File Name: C:\Users\victo\OneDrive\Área de Trabalho\Black\Noticias Brasil IND\g1nws.lat\wp-content\uploads\2025\02\caixa-removebg-preview-1.png
+Content Type: image/png
+
+Uri: https://g1nws.lat/wp-content/uploads/2025/02/Captura-de-Tela-2025-01-24-as-08.11.41.png
+File Name: C:\Users\victo\OneDrive\Área de Trabalho\Black\Noticias Brasil IND\g1nws.lat\wp-content\uploads\2025\02\Captura-de-Tela-2025-01-24-as-08.11.41.png
+Content Type: image/png
+
+Uri: https://g1nws.lat/wp-content/uploads/2025/02/log-cnn-brasil-transparent.svg
+File Name: C:\Users\victo\OneDrive\Área de Trabalho\Black\Noticias Brasil IND\g1nws.lat\wp-content\uploads\2025\02\log-cnn-brasil-transparent.svg
+Content Type: image/svg+xml
+
+Uri: https://g1nws.lat/wp-content/uploads/elementor/css/post-5.css?ver=1739329724
+File Name: C:\Users\victo\OneDrive\Área de Trabalho\Black\Noticias Brasil IND\g1nws.lat\wp-content\uploads\elementor\css\post-5.css
+Content Type: text/css
+
+Uri: https://g1nws.lat/wp-content/uploads/elementor/css/post-907.css?ver=1739925920
+File Name: C:\Users\victo\OneDrive\Área de Trabalho\Black\Noticias Brasil IND\g1nws.lat\wp-content\uploads\elementor\css\post-907.css
+Content Type: text/css
+
+Uri: https://g1nws.lat/wp-includes/js/dist/hooks.min.js?ver=4d63a3d491d11ffd8ac6
+File Name: C:\Users\victo\OneDrive\Área de Trabalho\Black\Noticias Brasil IND\g1nws.lat\wp-includes\js\dist\hooks.min.js
+Content Type: text/javascript
+
+Uri: https://g1nws.lat/wp-includes/js/dist/i18n.min.js?ver=5e580eb46a90c2b997e6
+File Name: C:\Users\victo\OneDrive\Área de Trabalho\Black\Noticias Brasil IND\g1nws.lat\wp-includes\js\dist\i18n.min.js
+Content Type: text/javascript
+
+Uri: https://g1nws.lat/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1
+File Name: C:\Users\victo\OneDrive\Área de Trabalho\Black\Noticias Brasil IND\g1nws.lat\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: text/javascript
+
+Uri: https://g1nws.lat/wp-includes/js/jquery/jquery.min.js?ver=3.7.1
+File Name: C:\Users\victo\OneDrive\Área de Trabalho\Black\Noticias Brasil IND\g1nws.lat\wp-includes\js\jquery\jquery.min.js
+Content Type: text/javascript
+
+Uri: https://g1nws.lat/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3
+File Name: C:\Users\victo\OneDrive\Área de Trabalho\Black\Noticias Brasil IND\g1nws.lat\wp-includes\js\jquery\ui\core.min.js
+Content Type: text/javascript
+
+Uri: https://g1nws.lat/wp-json/
+File Name: C:\Users\victo\OneDrive\Área de Trabalho\Black\Noticias Brasil IND\g1nws.lat\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://g1nws.lat/wp-json/oembed/1.0/embed?url=https:%2F%2Fg1nws.lat%2F
+File Name: C:\Users\victo\OneDrive\Área de Trabalho\Black\Noticias Brasil IND\g1nws.lat\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://g1nws.lat/wp-json/oembed/1.0/embed?url=https:%2F%2Fg1nws.lat%2F&format=xml
+File Name: C:\Users\victo\OneDrive\Área de Trabalho\Black\Noticias Brasil IND\g1nws.lat\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://g1nws.lat/wp-json/wp/v2/pages/907
+File Name: C:\Users\victo\OneDrive\Área de Trabalho\Black\Noticias Brasil IND\g1nws.lat\wp-json\wp\v2\pages\907
+Content Type: application/json
+
+Uri: https://images.converteai.net/431edce0-acaa-445a-bfc7-41dbfc5ebdf5/players/67b506e3159c15e0578bee6b/thumbnail.jpg
+File Name: C:\Users\victo\OneDrive\Área de Trabalho\Black\Noticias Brasil IND\g1nws.lat\431edce0-acaa-445a-bfc7-41dbfc5ebdf5\players\67b506e3159c15e0578bee6b\thumbnail.jpg
+Content Type: image/jpeg
+
+Uri: https://images.converteai.net/b5a04485-c09c-4f97-85ab-84e10b9d9fdc/players/6644eff894d83f000be85f9d/thumbnail.jpg
+File Name: C:\Users\victo\OneDrive\Área de Trabalho\Black\Noticias Brasil IND\g1nws.lat\b5a04485-c09c-4f97-85ab-84e10b9d9fdc\players\6644eff894d83f000be85f9d\thumbnail.jpg
+Content Type: image/jpeg
+
+Uri: https://scripts.converteai.net/b5a04485-c09c-4f97-85ab-84e10b9d9fdc/players/6644eff894d83f000be85f9d/player.js
+File Name: C:\Users\victo\OneDrive\Área de Trabalho\Black\Noticias Brasil IND\g1nws.lat\b5a04485-c09c-4f97-85ab-84e10b9d9fdc\players\6644eff894d83f000be85f9d\player.js
+Content Type: text/javascript
+
